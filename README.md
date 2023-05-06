@@ -11,3 +11,5 @@ https://gitlab.com/bar/something.git ./public
 ...
 ```
 
+Sleeps for a minute after running, so just set it to `restart=always` and it'll update the repos every minute.
+
